@@ -1,0 +1,7 @@
+myProfile = {
+  Name: "Babalola Gideon Folagbade",
+  Occupation: "Full-Stack Developer",
+  Education: "computer science, Landmark University(first-year)",
+  Age: 16,
+  company: "FOLBEN-COORPORATION"
+}
